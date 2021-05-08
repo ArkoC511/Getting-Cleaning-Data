@@ -8,11 +8,10 @@
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/ArkoC511/Getting-Cleaning-Data/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/ArkoC511/Getting-Cleaning-Data/tidyData.txt "tidyData.txt")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/ArkoC511/Getting-Cleaning-Data/blob/main/run_analysis.R "run_analysis.R")
 Github Repo | Repo |  [Repo Link](https://github.com/ArkoC511/Getting-Cleaning-Data/ "Click to go to Repo")
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/ArkoC511/Getting-Cleaning-Data/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link](https://github.com/ArkoC511/Getting-Cleaning-Data/README.md "README.md")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/ArkoC511/Getting-Cleaning-Data/blob/main/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/ArkoC511/Getting-Cleaning-Data/blob/main/README.md "README.md")
 
 ## Contributors
 
